@@ -1,0 +1,104 @@
+#eftx-button-container .btn{margin-right: 10px;}
+	button.eftx-bank{width: 100px!important;border-width: 2px!important;}
+	button.eftx-bank.eftx-absa {
+		background-image: url(../images/7.jpg),-webkit-linear-gradient(left,#ec262d 0,#ff515f 150%);
+		background-image: url(../images/7.jpg),linear-gradient(to right,#ec262d 0,#ff515f 150%);
+		background-size: contain;
+		background-position: center;
+		background-repeat: no-repeat;
+		color: rgba(255,255,255,0);
+	}
+
+	button.eftx-bank.eftx-standard {
+		background-image: url(../images/2.jpg),-webkit-linear-gradient(left,#024a86 0,#0260aa 150%);
+		background-image: url(../images/2.jpg),linear-gradient(to right,#024a86 0,#0260aa 150%);
+		background-size: contain;
+		background-position: center;
+		background-repeat: no-repeat;
+		color: rgba(255,255,255,0);
+	}
+
+	button.eftx-bank.eftx-fnb {
+		background-image: url(../images/1.jpg),-webkit-linear-gradient(left,#00aaae 0,#00ccce 150%);
+		background-image: url(../images/1.jpg),linear-gradient(to right,#00aaae 0,#00ccce 150%);
+		background-size: contain;
+		background-position: center;
+		background-repeat: no-repeat;
+		color: rgba(255,255,255,0);
+	}
+
+	button.eftx-bank.eftx-nedbank {
+		background-image: url(../images/3.jpg),-webkit-linear-gradient(left,#006440 0,#008454 150%);
+		background-image: url(../images/3.jpg),linear-gradient(to right,#006440 0,#008454 150%);
+		background-size: contain;
+		background-position: center;
+		background-repeat: no-repeat;
+		color: rgba(255,255,255,0);
+	}
+
+	button.eftx-bank.eftx-afribank {
+		background-image: url(../images/9.jpg),-webkit-linear-gradient(left,#f1f1ff 0,#f7f7ff 150%);
+		background-image: url(../images/9.jpg),linear-gradient(to right,#f1f1ff 0,#f7f7ff 150%);
+		background-size: contain;
+		background-position: center;
+		background-repeat: no-repeat;
+		color: rgba(255,255,255,0);
+	}
+
+	button.eftx-bank.eftx-capitec {
+		background-image: url(../images/8.jpg),-webkit-linear-gradient(left,#f1f1ff 0,#f7f7ff 150%);
+		background-image: url(../images/8.jpg),linear-gradient(to right,#f1f1ff 0,#f7f7ff 150%);
+		background-size: contain;
+		background-position: center;
+		background-repeat: no-repeat;
+		color: rgba(255,255,255,0);
+	}
+
+	button.eftx-bank.eftx-investec {
+		background-image: url(../images/6.jpg),-webkit-linear-gradient(left,#36424a 0,#465661 150%);
+		background-image: url(../images/6.jpg),linear-gradient(to right,#36424a 0,#465661 150%);
+		background-size: contain;
+		background-position: center;
+		background-repeat: no-repeat;
+		color: rgba(255,255,255,0);
+	}
+
+	button.eftx-bank.eftx-tyme {
+		background-image: url(../images/5.jpg),-webkit-linear-gradient(left,#36424a 0,#465661 150%);
+		background-image: url(../images/5.jpg),linear-gradient(to right,#36424a 0,#465661 150%);
+		background-size: contain;
+		background-position: center;
+		background-repeat: no-repeat;
+		color: rgba(255,255,255,0);
+	}
+
+	button.eftx-bank.eftx-windhoek {
+		background-image: url("data:image/svg+xml,%3C%3Fxml version='1.0' standalone='no'%3F%3E%3C!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 20010904//EN' 'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'%3E%3Csvg version='1.0' xmlns='http://www.w3.org/2000/svg' width='150px' height='150px' viewBox='-12 90 230 20' preserveAspectRatio='xMidYMid meet'%3E%3Cmetadata%3E%0ACreated by potrace 1.10, written by Peter Selinger 2001-2011%0A%3C/metadata%3E%3Cg transform='translate(0.000000,200.000000) scale(0.100000,-0.100000)'%0Afill='%23f90c0c' stroke='none'%3E%3Cpath d='M845 1734 c-227 -40 -460 -232 -550 -452 -60 -149 -69 -348 -23 -507%0A67 -228 275 -436 501 -502 361 -106 733 57 897 391 107 217 106 446 -2 666%0A-44 91 -63 117 -142 196 -79 79 -105 98 -196 142 -158 78 -304 98 -485 66z%0Am-248 -326 c11 -13 82 -131 158 -263 76 -132 160 -277 186 -323 27 -45 49 -91%0A49 -102 0 -26 -100 -200 -122 -211 -39 -21 -29 -36 -325 480 -68 118 -123 217%0A-123 221 0 10 101 183 118 203 20 23 34 22 59 -5z m400 0 c11 -13 82 -131 158%0A-263 76 -132 160 -277 186 -323 27 -45 49 -91 49 -102 0 -25 -100 -199 -122%0A-211 -27 -14 -46 -1 -82 60 -91 152 -366 634 -366 641 0 10 101 184 118 203%0A20 23 34 22 59 -5z m400 0 c11 -13 41 -59 66 -103 25 -44 63 -111 86 -150 23%0A-38 41 -79 41 -90 0 -11 -21 -56 -46 -100 -92 -159 -95 -158 -206 33 -126 215%0A-122 206 -102 245 26 51 86 150 102 170 20 23 34 22 59 -5z'/%3E%3C/g%3E%3C/svg%3E"),-webkit-linear-gradient(left,#f1f1ff 0,#f7f7ff 150%);
+		background-image: url("data:image/svg+xml,%3C%3Fxml version='1.0' standalone='no'%3F%3E%3C!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 20010904//EN' 'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'%3E%3Csvg version='1.0' xmlns='http://www.w3.org/2000/svg' width='150px' height='150px' viewBox='-12 90 230 20' preserveAspectRatio='xMidYMid meet'%3E%3Cmetadata%3E%0ACreated by potrace 1.10, written by Peter Selinger 2001-2011%0A%3C/metadata%3E%3Cg transform='translate(0.000000,200.000000) scale(0.100000,-0.100000)'%0Afill='%23f90c0c' stroke='none'%3E%3Cpath d='M845 1734 c-227 -40 -460 -232 -550 -452 -60 -149 -69 -348 -23 -507%0A67 -228 275 -436 501 -502 361 -106 733 57 897 391 107 217 106 446 -2 666%0A-44 91 -63 117 -142 196 -79 79 -105 98 -196 142 -158 78 -304 98 -485 66z%0Am-248 -326 c11 -13 82 -131 158 -263 76 -132 160 -277 186 -323 27 -45 49 -91%0A49 -102 0 -26 -100 -200 -122 -211 -39 -21 -29 -36 -325 480 -68 118 -123 217%0A-123 221 0 10 101 183 118 203 20 23 34 22 59 -5z m400 0 c11 -13 82 -131 158%0A-263 76 -132 160 -277 186 -323 27 -45 49 -91 49 -102 0 -25 -100 -199 -122%0A-211 -27 -14 -46 -1 -82 60 -91 152 -366 634 -366 641 0 10 101 184 118 203%0A20 23 34 22 59 -5z m400 0 c11 -13 41 -59 66 -103 25 -44 63 -111 86 -150 23%0A-38 41 -79 41 -90 0 -11 -21 -56 -46 -100 -92 -159 -95 -158 -206 33 -126 215%0A-122 206 -102 245 26 51 86 150 102 170 20 23 34 22 59 -5z'/%3E%3C/g%3E%3C/svg%3E"),linear-gradient(to right,#f1f1ff 0,#f7f7ff 150%);
+		background-size: contain;
+		background-position: center;
+		background-repeat: no-repeat;
+		color: rgba(255,255,255,0);
+	}
+
+	button.eftx-bank.eftx-bidvest {
+		background-image: url(../images/10.jpg),-webkit-linear-gradient(left,#f1f1ff 0,#f7f7ff 150%);
+		background-image: url(../images/10.jpg),linear-gradient(to right,#f1f1ff 0,#f7f7ff 150%);
+		background-size: contain;
+		background-position: center;
+		background-repeat: no-repeat;
+		color: rgba(255,255,255,0);
+	}
+
+	button.eftx-bank.eftx-oldmutual {
+		background-image: url(../images/4.jpg),-webkit-linear-gradient(left,#f1f1ff 0,#67bf5c 150%);
+		background-image: url(../images/4.jpg),linear-gradient(to right,#f1f1ff 0,#67bf5c 150%);
+		background-size: contain;
+		background-position: center;
+		background-repeat: no-repeat;
+		color: rgba(255,255,255,0);
+	}
+.modal-footer{position: relative;}
+.africalogo{font-size: 8px;margin-bottom: 4px;}
+.tiny-img{width:60px;}
+.eftx-cancel-transaction{float: left;}
